@@ -21,22 +21,26 @@ temas de novedad.
 - [About](#about)
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
-Explain what your project is and what problem it solves. Provide some context about its purpose and why someone might want to use it.
+**Análisis de sentimientos sobre comentarios en Tweets.**
+
+- Obtener información de tweets. Python + Datos Twitter (json).
+- Almacenar la información en una base de datos MySQL para futuras ingestas.
+- Análisis de sentimientos. Responder a preguntas cómo:
+    - “¿Cuáles son las palabras más empleadas?
+    - ¿Qué sentimiento es más intenso?
+    - ¿Qué tan objetivos son los Tweets sobre el tema?
+    - ¿Qué tan positivos se espera que sean los comentarios para el día de mañana?”
 
 ## Demo
 
-Include screenshots, gifs, or links to live demos to give users a visual representation of your project.
+Incluir evidencia, screenshots. etc
 
 ## Features
 
-List the key features and functionalities of your project. You can use bullet points or a table:
+Características y funcionalidades principales:
 
 - Feature 1: Describe feature 1.
 - Feature 2: Describe feature 2.
