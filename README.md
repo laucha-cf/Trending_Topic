@@ -13,7 +13,7 @@ La **idea** es:
 temas de novedad.
 - Se muestre un análisis estadístico.
 
-[![Project Logo/Image](media/X_logo_2023_(white).png)](https://github.com/laucha-cf/Trending_Topic)
+[![Project Logo/Image](https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png)](https://github.com/laucha-cf/Trending_Topic)
 
 ## Table of Contents
 
